@@ -1,0 +1,4 @@
+this is creating file 
+sample checking
+hello
+

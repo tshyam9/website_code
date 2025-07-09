@@ -1,0 +1,3 @@
+this is vim prog2 file 
+sample checking
+hello
